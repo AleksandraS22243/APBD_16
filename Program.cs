@@ -2,7 +2,7 @@
 
 public class Math
 {
-    public static double CalculateAverage(int[] numbers)
+    public static double Costam(int[] numbers)
     {
         if (numbers == null || numbers.Length == 0)
         {
@@ -25,7 +25,7 @@ class Program
     {
 
         int[] numbers = { 2, 4, 6, 8, 10 };
-        double average = Math.CalculateAverage(numbers);
+        double average = Math.Costam(numbers);
         Console.WriteLine("Średnia wynosi: " + average);
     }
 }
