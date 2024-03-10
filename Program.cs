@@ -1,21 +1,24 @@
 ﻿using System;
 
-public class Math
+public class MathHelper
 {
-    public static double CalculateAverage(int[] numbers)
+    public static int FindMax(int[] numbers)
     {
         if (numbers == null || numbers.Length == 0)
         {
             throw new ArgumentException("Tablica liczb nie może być pusta.");
         }
 
-        int sum = 0;
+        int max = numbers[0];
         foreach (int num in numbers)
         {
-            sum += num;
+            if (num > max)
+            {
+                max = num;
+            }
         }
 
-        return (double)sum / numbers.Length;
+        return max;
     }
 }
 
@@ -23,9 +26,8 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        int[] numbers = { 2, 4, 6, 8, 10 };
-        double average = Math.CalculateAverage(numbers);
-        Console.WriteLine("Średnia wynosi: " + average);
+        int[] numbers = { 2, 8, 5, 3, 10 };
+        int max = MathHelper.FindMax(numbers);
+        Console.WriteLine("Maksymalna wartość: " + max);
     }
 }
