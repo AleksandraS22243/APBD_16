@@ -1,10 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
 
+public class Math
+{
+    public static double CalculateAverage(int[] numbers)
+    {
+        if (numbers == null || numbers.Length == 0)
+        {
+            throw new ArgumentException("Tablica liczb nie może być pusta.");
+        }
 
-Console.WriteLine("1 commit");
+        int sum = 0;
+        foreach (int num in numbers)
+        {
+            sum += num;
+        }
 
-Console.WriteLine("2 commit");
+        return (double)sum / numbers.Length;
+    }
+}
 
+class Program
+{
+    static void Main(string[] args)
+    {
 
-Console.WriteLine("3 commit");
+        int[] numbers = { 2, 4, 6, 8, 10 };
+        double average = Math.CalculateAverage(numbers);
+        Console.WriteLine("Średnia wynosi: " + average);
+    }
+}
