@@ -1,0 +1,15 @@
+Z:\APBD\APBD_16\bin\Debug\net8.0\APBD_16.exe
+Z:\APBD\APBD_16\bin\Debug\net8.0\APBD_16.deps.json
+Z:\APBD\APBD_16\bin\Debug\net8.0\APBD_16.runtimeconfig.json
+Z:\APBD\APBD_16\bin\Debug\net8.0\APBD_16.dll
+Z:\APBD\APBD_16\bin\Debug\net8.0\APBD_16.pdb
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.GeneratedMSBuildEditorConfig.editorconfig
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.AssemblyInfoInputs.cache
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.AssemblyInfo.cs
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.csproj.CoreCompileInputs.cache
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.sourcelink.json
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.dll
+Z:\APBD\APBD_16\obj\Debug\net8.0\refint\APBD_16.dll
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.pdb
+Z:\APBD\APBD_16\obj\Debug\net8.0\APBD_16.genruntimeconfig.cache
+Z:\APBD\APBD_16\obj\Debug\net8.0\ref\APBD_16.dll
