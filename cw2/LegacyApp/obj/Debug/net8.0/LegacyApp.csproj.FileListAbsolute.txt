@@ -10,3 +10,15 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.sourcelink.json
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/agawronska/Documents/APBD/APBD_16/cw2/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
