@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "EaUC/8Von80E+jSRNMWT1cr71qrjU3XMklF4Vts2GxU=",
+  "Hash": "PChjE2PWW95e0dGc6bLVHXkEIMfa9yJFlUIyqP6P52E=",
   "Source": "App",
   "BasePath": "_content/App",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "App\\wwwroot",
+      "Source": "App",
+      "ContentRoot": "C:\\Users\\s22243\\Documents\\APBD\\cw3\\App\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
