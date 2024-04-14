@@ -1,3 +1,5 @@
+using System;
+
 namespace LegacyApp
 {
     public interface IUserCreditService
