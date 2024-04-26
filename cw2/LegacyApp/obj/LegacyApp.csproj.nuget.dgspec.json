@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s22243\\Documents\\APBD\\cw2\\LegacyApp\\LegacyApp.csproj": {}
+    "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw2\\LegacyApp\\LegacyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s22243\\Documents\\APBD\\cw2\\LegacyApp\\LegacyApp.csproj": {
+    "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw2\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s22243\\Documents\\APBD\\cw2\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw2\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\s22243\\Documents\\APBD\\cw2\\LegacyApp\\LegacyApp.csproj",
-        "packagesPath": "C:\\Users\\s22243\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s22243\\Documents\\APBD\\cw2\\LegacyApp\\obj\\",
+        "projectPath": "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw2\\LegacyApp\\LegacyApp.csproj",
+        "packagesPath": "C:\\Users\\agawr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw2\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s22243\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\agawr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\agawr\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
