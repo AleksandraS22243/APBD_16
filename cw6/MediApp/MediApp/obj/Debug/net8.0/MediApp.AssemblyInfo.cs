@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+214575af9c4ac51dd5c9a6e2520c76bb93622d4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6710d5a7d636c2eadcf9cf0902dde131d9187e0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

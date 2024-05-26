@@ -277,3 +277,4 @@ C:\Users\s22243\RiderProjects\APBD_16\cw6\MediApp\MediApp\obj\Debug\net8.0\refin
 C:\Users\s22243\RiderProjects\APBD_16\cw6\MediApp\MediApp\obj\Debug\net8.0\MediApp.pdb
 C:\Users\s22243\RiderProjects\APBD_16\cw6\MediApp\MediApp\obj\Debug\net8.0\MediApp.genruntimeconfig.cache
 C:\Users\s22243\RiderProjects\APBD_16\cw6\MediApp\MediApp\obj\Debug\net8.0\ref\MediApp.dll
+C:\Users\s22243\RiderProjects\APBD_16\cw6\MediApp\MediApp\bin\Debug\net8.0\global.json
