@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj": {}
+    "C:\\Users\\s22243\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj": {
+    "C:\\Users\\s22243\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj",
+        "projectUniqueName": "C:\\Users\\s22243\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj",
         "projectName": "MediApp",
-        "projectPath": "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj",
-        "packagesPath": "C:\\Users\\agawr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agawr\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\obj\\",
+        "projectPath": "C:\\Users\\s22243\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\MediApp.csproj",
+        "packagesPath": "C:\\Users\\s22243\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s22243\\RiderProjects\\APBD_16\\cw6\\MediApp\\MediApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\agawr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\s22243\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,6 +64,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
@@ -83,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
