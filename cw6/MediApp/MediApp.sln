@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediApp", "MediApp\MediApp.csproj", "{AB26A8E3-3093-4DD7-8E34-64A1B910DB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB26A8E3-3093-4DD7-8E34-64A1B910DB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB26A8E3-3093-4DD7-8E34-64A1B910DB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB26A8E3-3093-4DD7-8E34-64A1B910DB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB26A8E3-3093-4DD7-8E34-64A1B910DB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
